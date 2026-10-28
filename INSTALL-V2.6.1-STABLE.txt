@@ -1,0 +1,12 @@
+KATTERUMS JAKTLAG v2.6.1 - STABIL ATERSTALLNING
+
+Detta paket aterstaller den fungerande v2.5.9-basen och ger den ny version/cache 2.6.1.
+Den felande jaktsynken fran v2.6.0 ar borttagen.
+Supabase-tabellen hunts kan ligga kvar men anvands inte av denna version.
+
+Ladda upp alla filer i paketet till GitHub-repots rot.
+Kontrollera efter publicering:
+- v2.6.1 i huvudet
+- inloggad anvandare visas
+- sidbyte fungerar
+- pass, observationer, fallt vilt och kartgrans fungerar som fore v2.6.0
